@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-you-like-before/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Love You Like Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-like-before/) |
+| **Get License** | [Request Licensing for Love You Like Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-like-before/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b55ea80098d5b8eb394ccd9cc31d7db55aec271f888ff11d6f492e730c8bdd4a` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
