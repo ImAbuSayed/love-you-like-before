@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-you-like-before/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Love You Like Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-like-before/) |
+| **Get License** | [License this song: Love You Like Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-like-before/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire in the shadows of the room
+> Pulling me closer to the magic of your perfume
+> Just a single touch and the world begins to fade
+> Let me love you like the promises we made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
